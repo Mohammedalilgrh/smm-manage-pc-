@@ -1,0 +1,23 @@
+{
+    "flask_secret": "supersecretkey1234",
+    "login": {
+        "username": "admin",
+        "password": "yoursafepass"
+    },
+    "telegram": {
+        "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+        "chat_id": "@your_channel_or_userid",
+        "channel_username": "yourchannelusername"
+    },
+    "youtube": {
+        "client_secrets": "client_secret.json"
+    },
+    "instagram": {
+        "chromedriver_path": "C:/chromedriver.exe",
+        "profile_dir": "C:/ig-profile"
+    },
+    "tiktok": {
+        "chromedriver_path": "C:/chromedriver.exe",
+        "profile_dir": "C:/tt-profile"
+    }
+}
